@@ -420,7 +420,7 @@ body {
   height: 100%;
   object-fit: contain;
   object-position: center;
-  transform: scaleX(1.15) scaleY(1.2);
+  transform: scaleX(1.30) scaleY(1.35);
   z-index: 0;
   border-radius: 12px;
 }
